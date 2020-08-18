@@ -1,0 +1,6 @@
+.my-class {
+    height:500px;
+    width: 500px;
+    display: block;
+    background: url("images/background.png") repeat scroll 0 0 green;
+}
